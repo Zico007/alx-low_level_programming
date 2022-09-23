@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"Pipfile": "ini",
+		"cmath": "c",
+		"*.tcc": "c"
+	}
+}
