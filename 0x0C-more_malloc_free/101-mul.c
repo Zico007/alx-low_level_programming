@@ -119,7 +119,7 @@ int main(int argc, char const *argv[])
 	int l;
 	char *num1, *num2, *result;
 
-	if (argc != 3 || !isdigits(argv[1]) || !isdigits(argv[2]))i
+	if (argc != 3 || !isdigits(argv[1]) || !isdigits(argv[2]))
 	{
 		puts("Error");
 		exit(98);
